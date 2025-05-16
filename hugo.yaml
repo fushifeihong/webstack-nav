@@ -1,0 +1,16 @@
+baseURL: 'https://你的用户名.github.io/webstack-nav/'
+languageCode: 'zh-cn'
+title: '我的导航站'
+theme: 'webstack-hugo'
+
+params:
+  keywords: "导航,网址导航,资源导航"
+  description: "一个简单的网址导航网站"
+  logoTitle: "我的导航站" # 站点名称
+  headerTitle: "我的导航站"
+  headerDescrip: "收集和分享实用网站"
+  
+  # 网站底部信息
+  footer:
+    copyright: "Copyright © 2024"
+    beian: "" # 备案号，如果不需要可以留空 

@@ -1,0 +1,25 @@
+- title: 常用工具
+  categories:
+  - name: 搜索引擎
+    sites:
+    - name: Google
+      description: 全球最大的搜索引擎
+      url: https://www.google.com
+      logo: https://www.google.com/favicon.ico
+    - name: Bing
+      description: 微软的搜索引擎
+      url: https://www.bing.com
+      logo: https://www.bing.com/favicon.ico
+
+- title: 开发工具
+  categories:
+  - name: 代码托管
+    sites:
+    - name: GitHub
+      description: 全球最大的代码托管平台
+      url: https://github.com
+      logo: https://github.com/favicon.ico
+    - name: GitLab
+      description: 开源的代码托管平台
+      url: https://gitlab.com
+      logo: https://gitlab.com/favicon.ico 
